@@ -20,7 +20,9 @@
 ## Introduction
 
 Dokoiku is a full-stack, single page application that allows users to connect with each other to plan trips.
-It is also [available on Google App Engine](https://dokoiku.genoatlas.com/).
+
+It is deployed on [Google App Engine](https://dokoiku.genoatlas.com/).
+You can also watch our [live demo](https://youtu.be/pIktQD3nJvs?t=2854).
 
 ---
 
